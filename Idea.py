@@ -21,4 +21,10 @@ for i in range(1,11):
     else:
         print ("incorrect, the answer was" ,math)
 
-
+if (score1) > 7:
+    print ("Great job you passed the test")
+        
+else:
+    print ("Sorry, you failed the test")
+        
+print ("Thanks for playing, See you next time")
